@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/horse-betting-app.io/static/css/main.d3becba9.chunk.css",
+    "main.js": "/horse-betting-app.io/static/js/main.6e3fe205.chunk.js",
+    "main.js.map": "/horse-betting-app.io/static/js/main.6e3fe205.chunk.js.map",
+    "runtime-main.js": "/horse-betting-app.io/static/js/runtime-main.33d6bf87.js",
+    "runtime-main.js.map": "/horse-betting-app.io/static/js/runtime-main.33d6bf87.js.map",
+    "static/js/2.dbfff76e.chunk.js": "/horse-betting-app.io/static/js/2.dbfff76e.chunk.js",
+    "static/js/2.dbfff76e.chunk.js.map": "/horse-betting-app.io/static/js/2.dbfff76e.chunk.js.map",
+    "index.html": "/horse-betting-app.io/index.html",
+    "static/css/main.d3becba9.chunk.css.map": "/horse-betting-app.io/static/css/main.d3becba9.chunk.css.map",
+    "static/js/2.dbfff76e.chunk.js.LICENSE.txt": "/horse-betting-app.io/static/js/2.dbfff76e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33d6bf87.js",
+    "static/js/2.dbfff76e.chunk.js",
+    "static/css/main.d3becba9.chunk.css",
+    "static/js/main.6e3fe205.chunk.js"
+  ]
+}
